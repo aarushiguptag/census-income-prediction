@@ -38,7 +38,3 @@ census-income-prediction/
 │── Census_Income_Project.ipynb
 │── README.md
 
-
-Electronics & Communication Engineering Undergraduate
-
-Interested in Data Science, Artificial Intelligence and Machine Learning.
